@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.Un juego de aventuras.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\!!Julio\!UOC\Curso 2021-22\Programación de videojuegos en 2D 09-15-2021\Prácticas\PEC1\Un juego de aventuras\.idea\.idea.Un juego de aventuras\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

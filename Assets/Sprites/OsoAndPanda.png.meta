@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: d5f04e44469f52241afeb2497812b131
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2942867096144050750
+    second: OsoAndPanda_0
+  - first:
+      213: -1115234315659988749
+    second: OsoAndPanda_1
+  - first:
+      213: -4095847629255503430
+    second: OsoAndPanda_2
+  - first:
+      213: 2153728693983612920
+    second: OsoAndPanda_3
+  - first:
+      213: 5743313550082522775
+    second: OsoAndPanda_4
+  - first:
+      213: 9044146963371848882
+    second: OsoAndPanda_5
+  - first:
+      213: 1707038435690381441
+    second: OsoAndPanda_6
+  - first:
+      213: -2705984731880677389
+    second: OsoAndPanda_7
+  - first:
+      213: -4210009990124144344
+    second: OsoAndPanda_8
+  - first:
+      213: 4830383893888605370
+    second: OsoAndPanda_9
+  - first:
+      213: 3015030219461061070
+    second: OsoAndPanda_10
+  - first:
+      213: -4134647703766395019
+    second: OsoAndPanda_11
+  - first:
+      213: -1813121252983955199
+    second: OsoAndPanda_12
+  - first:
+      213: -40847310072256437
+    second: OsoAndPanda_13
+  - first:
+      213: -4335061050529072859
+    second: OsoAndPanda_14
+  - first:
+      213: -2706084633907919516
+    second: OsoAndPanda_15
+  - first:
+      213: 6898574814987048722
+    second: OsoAndPanda_16
+  - first:
+      213: 917461489041371110
+    second: OsoAndPanda_17
+  - first:
+      213: 5679167762685068955
+    second: OsoAndPanda_18
+  - first:
+      213: -1189887728751550800
+    second: OsoAndPanda_19
+  - first:
+      213: -8420966335318207248
+    second: OsoAndPanda_20
+  - first:
+      213: -399951701869998159
+    second: OsoAndPanda_21
+  - first:
+      213: -8893764742822036446
+    second: OsoAndPanda_22
+  - first:
+      213: -5380370366575116721
+    second: OsoAndPanda_23
+  - first:
+      213: 2333016220830598083
+    second: OsoAndPanda_24
+  - first:
+      213: -6752577022489788198
+    second: OsoAndPanda_25
+  - first:
+      213: -6807249777208526056
+    second: OsoAndPanda_26
+  - first:
+      213: -1240335171037210349
+    second: OsoAndPanda_27
+  - first:
+      213: -8137730741650153350
+    second: OsoAndPanda_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OsoAndPanda_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 696
+        width: 356
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af9de280a27d820800000000000000
+      internalID: 2942867096144050750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 697
+        width: 355
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b2c57c44e580f0800000000000000
+      internalID: -1115234315659988749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_2
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 377
+        width: 112
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1991c2840a827c0800000000000000
+      internalID: -4095847629255503430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_3
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 696
+        width: 355
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff857316d493ed10800000000000000
+      internalID: 2153728693983612920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_4
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 696
+        width: 356
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3b529e3954bf40800000000000000
+      internalID: 5743313550082522775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 418
+        width: 356
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f438ceb3438d70800000000000000
+      internalID: 9044146963371848882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 419
+        width: 356
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1808349b96e90b710800000000000000
+      internalID: 1707038435690381441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_7
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 418
+        width: 356
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1f982939627ad0800000000000000
+      internalID: -2705984731880677389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_8
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 418
+        width: 356
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829fdc5383a0395c0800000000000000
+      internalID: -4210009990124144344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 108
+        height: 130
+      alignment: 9
+      pivot: {x: 0.85, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc9ffb1f88f80340800000000000000
+      internalID: 4830383893888605370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 167
+        width: 201
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec96b02a20a87d920800000000000000
+      internalID: 3015030219461061070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 254
+        width: 113
+        height: 126
+      alignment: 9
+      pivot: {x: 0.15, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5779e99d1d7ce96c0800000000000000
+      internalID: -4134647703766395019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 250
+        width: 109
+        height: 130
+      alignment: 9
+      pivot: {x: 0.85, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1012e25a3df76d6e0800000000000000
+      internalID: -1813121252983955199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 167
+        width: 200
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48ec118691ee6ff0800000000000000
+      internalID: -40847310072256437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_14
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 253
+        width: 115
+        height: 126
+      alignment: 9
+      pivot: {x: 0.15, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529359351f4c6d3c0800000000000000
+      internalID: -4335061050529072859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_15
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 252
+        width: 115
+        height: 126
+      alignment: 9
+      pivot: {x: 0.85, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46586c7ec5e027ad0800000000000000
+      internalID: -2706084633907919516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_16
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 166
+        width: 200
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21752c77e39acbf50800000000000000
+      internalID: 6898574814987048722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_17
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 249
+        width: 109
+        height: 130
+      alignment: 9
+      pivot: {x: 0.15, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef69650d5a7bbc00800000000000000
+      internalID: 917461489041371110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_18
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 252
+        width: 113
+        height: 126
+      alignment: 9
+      pivot: {x: 0.85, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9681ba9df470de40800000000000000
+      internalID: 5679167762685068955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_19
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 166
+        width: 201
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beda2d3a6bac7fe0800000000000000
+      internalID: -1189887728751550800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_20
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 249
+        width: 108
+        height: 130
+      alignment: 9
+      pivot: {x: 0.15, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d5d5fbb7b22b80800000000000000
+      internalID: -8420966335318207248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 115
+        height: 161
+      alignment: 9
+      pivot: {x: 0.7, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc9b2db06137af0800000000000000
+      internalID: -399951701869998159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 106
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cf23c6610039480800000000000000
+      internalID: -8893764742822036446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_23
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 114
+        height: 161
+      alignment: 9
+      pivot: {x: 0.7, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e704478a51555b0800000000000000
+      internalID: -5380370366575116721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_24
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 106
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c305d954e9806020800000000000000
+      internalID: 2333016220830598083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_25
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 0
+        width: 106
+        height: 161
+      alignment: 9
+      pivot: {x: 0.7, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0080889f60a42a0800000000000000
+      internalID: -6752577022489788198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_26
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 103
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf02cd46ac781a0800000000000000
+      internalID: -6807249777208526056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_27
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 0
+        width: 106
+        height: 161
+      alignment: 9
+      pivot: {x: 0.7, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31957e7cbb179cee0800000000000000
+      internalID: -1240335171037210349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OsoAndPanda_28
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 0
+        width: 102
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70aa2a8109f01f80800000000000000
+      internalID: -8137730741650153350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

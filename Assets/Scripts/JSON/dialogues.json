@@ -1,0 +1,155 @@
+﻿{
+  "actors": [
+    {
+      "id": 1,
+      "name": "Pirata del Bosque"
+    },
+    {
+      "id": 2,
+      "name": "Jugador"
+    }
+  ],
+  "conversations": [
+    {
+      "id": 1,
+      "actorId": 1,
+      "insults": [
+        {
+          "id": 1,
+          "dialogue": "¿Has dejado ya de usar pañales?"
+        },
+        {
+          "id": 2,
+          "dialogue": "¡No hay palabras para describir lo asqueroso que eres!"
+        },
+        {
+          "id": 3,
+          "dialogue": "¡He hablado con simios más educados que tu!"
+        },
+        {
+          "id": 4,
+          "dialogue": "¡Llevarás mi espada como si fueras un pincho moruno!"
+        },
+        {
+          "id": 5,
+          "dialogue": "¡Luchas como un ganadero!"
+        },
+        {
+          "id": 6,
+          "dialogue": "¡No pienso aguantar tu insolencia aquí sentado!"
+        },
+        {
+          "id": 7,
+          "dialogue": "¡Mi pañuelo limpiará tu sangre!"
+        },
+        {
+          "id": 8,
+          "dialogue": "¡Ha llegado tu HORA, palurdo de ocho patas!"
+        },
+        {
+          "id": 9,
+          "dialogue": "¡Una vez tuve un perro más listo que tu!"
+        },
+        {
+          "id": 10,
+          "dialogue": "¡Nadie me ha sacado sangre jamás, y nadie lo hará! "
+        },
+        {
+          "id": 11,
+          "dialogue": "¡Me das ganas de vomitar!"
+        },
+        {
+          "id": 12,
+          "dialogue": "¡Tienes los modales de un mendigo!"
+        },
+        {
+          "id": 13,
+          "dialogue": "¡He oído que eres un soplón despreciable!"
+        },
+        {
+          "id": 14,
+          "dialogue": "¡La gente cae a mis pies al verme llegar!"
+        },
+        {
+          "id": 15,
+          "dialogue": "¡Demasiado bobo para mi nivel de inteligencia!"
+        },
+        {
+          "id": 16,
+          "dialogue": "Obtuve esta cicatriz en una batalla a muerte!"
+        }
+      ]
+      
+    },
+    {
+      "id": 2,
+      "actorId": 2,
+      "insults": [
+        {
+          "id": 1,
+          "dialogue": "¿Por qué? ¿Acaso querías pedir uno prestado?"
+        },
+        {
+          "id": 2,
+          "dialogue": "Sí que las hay, sólo que nunca las has aprendido."
+        },
+        {
+          "id": 3,
+          "dialogue": "Me alegra que asistieras a tu reunión familiar diaria."
+        },
+        {
+          "id": 4,
+          "dialogue": "Primero deberías dejar de usarla como un plumero."
+        },
+        {
+          "id": 5,
+          "dialogue": "Qué apropiado, tú peleas como una vaca."
+        },
+        {
+          "id": 6,
+          "dialogue": "Ya te están fastidiando otra vez las almorranas, ¿Eh?"
+        },
+        {
+          "id": 7,
+          "dialogue": "Ah, ¿Ya has obtenido ese trabajo de barrendero?"
+        },
+        {
+          "id": 8,
+          "dialogue": "Y yo tengo un SALUDO para ti, ¿Te enteras?"
+        },
+        {
+          "id": 9,
+          "dialogue": "Te habrá enseñado todo lo que sabes."
+        },
+        {
+          "id": 10,
+          "dialogue": "¿TAN rápido corres?"
+        },
+        {
+          "id": 11,
+          "dialogue": "Me haces pensar que alguien ya lo ha hecho."
+        },
+        {
+          "id": 12,
+          "dialogue": "Quería asegurarme de que estuvieras a gusto conmigo."
+        },
+        {
+          "id": 13,
+          "dialogue": "Qué pena me da que nadie haya oído hablar de ti."
+        },
+        {
+          "id": 14,
+          "dialogue": "¿Incluso antes de que huelan tu aliento?"
+        },
+        {
+          "id": 15,
+          "dialogue": "Estaría acabado si la usases alguna vez."
+        },
+        {
+          "id": 16,
+          "dialogue": "Espero que ya hayas aprendido a no tocarte la nariz."
+        }
+      ]
+    }
+  ]
+}
