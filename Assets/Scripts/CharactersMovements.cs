@@ -67,6 +67,6 @@ public class CharactersMovements : MonoBehaviour {
     }
 
     public void PlaySoundDeath() {
-        
+        gameplayManager.death.Play();
     }
 }
